@@ -1,0 +1,2564 @@
+H H H 
+H H H 
+H H H 
+0
+
+X Q H 
+Q Q H 
+H H H 
+1
+
+Q X Q 
+Q Q Q 
+H H H 
+2
+
+X X Q 
+Q Q Q 
+H H H 
+3
+
+H Q X 
+H Q Q 
+H H H 
+4
+
+X Q X 
+Q Q Q 
+H H H 
+5
+
+Q X X 
+Q Q Q 
+H H H 
+6
+
+X X X 
+Q Q Q 
+H H H 
+7
+
+Q Q H 
+X Q H 
+Q Q H 
+8
+
+X Q H 
+X Q H 
+Q Q H 
+9
+
+Q X Q 
+X Q Q 
+Q Q H 
+10
+
+X X Q 
+X Q Q 
+Q Q H 
+11
+
+Q Q X 
+X Q Q 
+Q Q H 
+12
+
+X Q X 
+X Q Q 
+Q Q H 
+13
+
+Q X X 
+X Q Q 
+Q Q H 
+14
+
+X X X 
+X Q Q 
+Q Q H 
+15
+
+Q Q Q 
+Q X Q 
+Q Q Q 
+16
+
+X Q Q 
+Q X Q 
+Q Q Q 
+17
+
+Q X Q 
+Q X Q 
+Q Q Q 
+18
+
+X X Q 
+Q X Q 
+Q Q Q 
+19
+
+Q Q X 
+Q X Q 
+Q Q Q 
+20
+
+X Q X 
+Q X Q 
+Q Q Q 
+21
+
+Q X X 
+Q X Q 
+Q Q Q 
+22
+
+X X X 
+Q X Q 
+Q Q Q 
+23
+
+Q Q Q 
+X X Q 
+Q Q Q 
+24
+
+X Q Q 
+X X Q 
+Q Q Q 
+25
+
+Q X Q 
+X X Q 
+Q Q Q 
+26
+
+X X Q 
+X X Q 
+Q Q Q 
+27
+
+Q Q X 
+X X Q 
+Q Q Q 
+28
+
+X Q X 
+X X Q 
+Q Q Q 
+29
+
+Q X X 
+X X Q 
+Q Q Q 
+30
+
+X X X 
+X X Q 
+Q Q Q 
+31
+
+H Q Q 
+H Q X 
+H Q Q 
+32
+
+X Q Q 
+Q Q X 
+H Q Q 
+33
+
+Q X Q 
+Q Q X 
+H Q Q 
+34
+
+X X Q 
+Q Q X 
+H Q Q 
+35
+
+H Q X 
+H Q X 
+H Q Q 
+36
+
+X Q X 
+Q Q X 
+H Q Q 
+37
+
+Q X X 
+Q Q X 
+H Q Q 
+38
+
+X X X 
+Q Q X 
+H Q Q 
+39
+
+Q Q Q 
+X Q X 
+Q Q Q 
+40
+
+X Q Q 
+X Q X 
+Q Q Q 
+41
+
+Q X Q 
+X Q X 
+Q Q Q 
+42
+
+X X Q 
+X Q X 
+Q Q Q 
+43
+
+Q Q X 
+X Q X 
+Q Q Q 
+44
+
+X Q X 
+X Q X 
+Q Q Q 
+45
+
+Q X X 
+X Q X 
+Q Q Q 
+46
+
+X X X 
+X Q X 
+Q Q Q 
+47
+
+Q Q Q 
+Q X X 
+Q Q Q 
+48
+
+X Q Q 
+Q X X 
+Q Q Q 
+49
+
+Q X Q 
+Q X X 
+Q Q Q 
+50
+
+X X Q 
+Q X X 
+Q Q Q 
+51
+
+Q Q X 
+Q X X 
+Q Q Q 
+52
+
+X Q X 
+Q X X 
+Q Q Q 
+53
+
+Q X X 
+Q X X 
+Q Q Q 
+54
+
+X X X 
+Q X X 
+Q Q Q 
+55
+
+Q Q Q 
+X X X 
+Q Q Q 
+56
+
+X Q Q 
+X X X 
+Q Q Q 
+57
+
+Q X Q 
+X X X 
+Q Q Q 
+58
+
+X X Q 
+X X X 
+Q Q Q 
+59
+
+Q Q X 
+X X X 
+Q Q Q 
+60
+
+X Q X 
+X X X 
+Q Q Q 
+61
+
+Q X X 
+X X X 
+Q Q Q 
+62
+
+X X X 
+X X X 
+Q Q Q 
+63
+
+H H H 
+Q Q H 
+X Q H 
+64
+
+X Q H 
+Q Q H 
+X Q H 
+65
+
+Q X Q 
+Q Q Q 
+X Q H 
+66
+
+X X Q 
+Q Q Q 
+X Q H 
+67
+
+H Q X 
+Q Q Q 
+X Q H 
+68
+
+X Q X 
+Q Q Q 
+X Q H 
+69
+
+Q X X 
+Q Q Q 
+X Q H 
+70
+
+X X X 
+Q Q Q 
+X Q H 
+71
+
+Q Q H 
+X Q H 
+X Q H 
+72
+
+X Q H 
+X Q H 
+X Q H 
+73
+
+Q X Q 
+X Q Q 
+X Q H 
+74
+
+X X Q 
+X Q Q 
+X Q H 
+75
+
+Q Q X 
+X Q Q 
+X Q H 
+76
+
+X Q X 
+X Q Q 
+X Q H 
+77
+
+Q X X 
+X Q Q 
+X Q H 
+78
+
+X X X 
+X Q Q 
+X Q H 
+79
+
+Q Q Q 
+Q X Q 
+X Q Q 
+80
+
+X Q Q 
+Q X Q 
+X Q Q 
+81
+
+Q X Q 
+Q X Q 
+X Q Q 
+82
+
+X X Q 
+Q X Q 
+X Q Q 
+83
+
+Q Q X 
+Q X Q 
+X Q Q 
+84
+
+X Q X 
+Q X Q 
+X Q Q 
+85
+
+Q X X 
+Q X Q 
+X Q Q 
+86
+
+X X X 
+Q X Q 
+X Q Q 
+87
+
+Q Q Q 
+X X Q 
+X Q Q 
+88
+
+X Q Q 
+X X Q 
+X Q Q 
+89
+
+Q X Q 
+X X Q 
+X Q Q 
+90
+
+X X Q 
+X X Q 
+X Q Q 
+91
+
+Q Q X 
+X X Q 
+X Q Q 
+92
+
+X Q X 
+X X Q 
+X Q Q 
+93
+
+Q X X 
+X X Q 
+X Q Q 
+94
+
+X X X 
+X X Q 
+X Q Q 
+95
+
+H Q Q 
+Q Q X 
+X Q Q 
+96
+
+X Q Q 
+Q Q X 
+X Q Q 
+97
+
+Q X Q 
+Q Q X 
+X Q Q 
+98
+
+X X Q 
+Q Q X 
+X Q Q 
+99
+
+H Q X 
+Q Q X 
+X Q Q 
+100
+
+X Q X 
+Q Q X 
+X Q Q 
+101
+
+Q X X 
+Q Q X 
+X Q Q 
+102
+
+X X X 
+Q Q X 
+X Q Q 
+103
+
+Q Q Q 
+X Q X 
+X Q Q 
+104
+
+X Q Q 
+X Q X 
+X Q Q 
+105
+
+Q X Q 
+X Q X 
+X Q Q 
+106
+
+X X Q 
+X Q X 
+X Q Q 
+107
+
+Q Q X 
+X Q X 
+X Q Q 
+108
+
+X Q X 
+X Q X 
+X Q Q 
+109
+
+Q X X 
+X Q X 
+X Q Q 
+110
+
+X X X 
+X Q X 
+X Q Q 
+111
+
+Q Q Q 
+Q X X 
+X Q Q 
+112
+
+X Q Q 
+Q X X 
+X Q Q 
+113
+
+Q X Q 
+Q X X 
+X Q Q 
+114
+
+X X Q 
+Q X X 
+X Q Q 
+115
+
+Q Q X 
+Q X X 
+X Q Q 
+116
+
+X Q X 
+Q X X 
+X Q Q 
+117
+
+Q X X 
+Q X X 
+X Q Q 
+118
+
+X X X 
+Q X X 
+X Q Q 
+119
+
+Q Q Q 
+X X X 
+X Q Q 
+120
+
+X Q Q 
+X X X 
+X Q Q 
+121
+
+Q X Q 
+X X X 
+X Q Q 
+122
+
+X X Q 
+X X X 
+X Q Q 
+123
+
+Q Q X 
+X X X 
+X Q Q 
+124
+
+X Q X 
+X X X 
+X Q Q 
+125
+
+Q X X 
+X X X 
+X Q Q 
+126
+
+X X X 
+X X X 
+X Q Q 
+127
+
+H H H 
+Q Q Q 
+Q X Q 
+128
+
+X Q H 
+Q Q Q 
+Q X Q 
+129
+
+Q X Q 
+Q Q Q 
+Q X Q 
+130
+
+X X Q 
+Q Q Q 
+Q X Q 
+131
+
+H Q X 
+Q Q Q 
+Q X Q 
+132
+
+X Q X 
+Q Q Q 
+Q X Q 
+133
+
+Q X X 
+Q Q Q 
+Q X Q 
+134
+
+X X X 
+Q Q Q 
+Q X Q 
+135
+
+Q Q H 
+X Q Q 
+Q X Q 
+136
+
+X Q H 
+X Q Q 
+Q X Q 
+137
+
+Q X Q 
+X Q Q 
+Q X Q 
+138
+
+X X Q 
+X Q Q 
+Q X Q 
+139
+
+Q Q X 
+X Q Q 
+Q X Q 
+140
+
+X Q X 
+X Q Q 
+Q X Q 
+141
+
+Q X X 
+X Q Q 
+Q X Q 
+142
+
+X X X 
+X Q Q 
+Q X Q 
+143
+
+Q Q Q 
+Q X Q 
+Q X Q 
+144
+
+X Q Q 
+Q X Q 
+Q X Q 
+145
+
+Q X Q 
+Q X Q 
+Q X Q 
+146
+
+X X Q 
+Q X Q 
+Q X Q 
+147
+
+Q Q X 
+Q X Q 
+Q X Q 
+148
+
+X Q X 
+Q X Q 
+Q X Q 
+149
+
+Q X X 
+Q X Q 
+Q X Q 
+150
+
+X X X 
+Q X Q 
+Q X Q 
+151
+
+Q Q Q 
+X X Q 
+Q X Q 
+152
+
+X Q Q 
+X X Q 
+Q X Q 
+153
+
+Q X Q 
+X X Q 
+Q X Q 
+154
+
+X X Q 
+X X Q 
+Q X Q 
+155
+
+Q Q X 
+X X Q 
+Q X Q 
+156
+
+X Q X 
+X X Q 
+Q X Q 
+157
+
+Q X X 
+X X Q 
+Q X Q 
+158
+
+X X X 
+X X Q 
+Q X Q 
+159
+
+H Q Q 
+Q Q X 
+Q X Q 
+160
+
+X Q Q 
+Q Q X 
+Q X Q 
+161
+
+Q X Q 
+Q Q X 
+Q X Q 
+162
+
+X X Q 
+Q Q X 
+Q X Q 
+163
+
+H Q X 
+Q Q X 
+Q X Q 
+164
+
+X Q X 
+Q Q X 
+Q X Q 
+165
+
+Q X X 
+Q Q X 
+Q X Q 
+166
+
+X X X 
+Q Q X 
+Q X Q 
+167
+
+Q Q Q 
+X Q X 
+Q X Q 
+168
+
+X Q Q 
+X Q X 
+Q X Q 
+169
+
+Q X Q 
+X Q X 
+Q X Q 
+170
+
+X X Q 
+X Q X 
+Q X Q 
+171
+
+Q Q X 
+X Q X 
+Q X Q 
+172
+
+X Q X 
+X Q X 
+Q X Q 
+173
+
+Q X X 
+X Q X 
+Q X Q 
+174
+
+X X X 
+X Q X 
+Q X Q 
+175
+
+Q Q Q 
+Q X X 
+Q X Q 
+176
+
+X Q Q 
+Q X X 
+Q X Q 
+177
+
+Q X Q 
+Q X X 
+Q X Q 
+178
+
+X X Q 
+Q X X 
+Q X Q 
+179
+
+Q Q X 
+Q X X 
+Q X Q 
+180
+
+X Q X 
+Q X X 
+Q X Q 
+181
+
+Q X X 
+Q X X 
+Q X Q 
+182
+
+X X X 
+Q X X 
+Q X Q 
+183
+
+Q Q Q 
+X X X 
+Q X Q 
+184
+
+X Q Q 
+X X X 
+Q X Q 
+185
+
+Q X Q 
+X X X 
+Q X Q 
+186
+
+X X Q 
+X X X 
+Q X Q 
+187
+
+Q Q X 
+X X X 
+Q X Q 
+188
+
+X Q X 
+X X X 
+Q X Q 
+189
+
+Q X X 
+X X X 
+Q X Q 
+190
+
+X X X 
+X X X 
+Q X Q 
+191
+
+H H H 
+Q Q Q 
+X X Q 
+192
+
+X Q H 
+Q Q Q 
+X X Q 
+193
+
+Q X Q 
+Q Q Q 
+X X Q 
+194
+
+X X Q 
+Q Q Q 
+X X Q 
+195
+
+H Q X 
+Q Q Q 
+X X Q 
+196
+
+X Q X 
+Q Q Q 
+X X Q 
+197
+
+Q X X 
+Q Q Q 
+X X Q 
+198
+
+X X X 
+Q Q Q 
+X X Q 
+199
+
+Q Q H 
+X Q Q 
+X X Q 
+200
+
+X Q H 
+X Q Q 
+X X Q 
+201
+
+Q X Q 
+X Q Q 
+X X Q 
+202
+
+X X Q 
+X Q Q 
+X X Q 
+203
+
+Q Q X 
+X Q Q 
+X X Q 
+204
+
+X Q X 
+X Q Q 
+X X Q 
+205
+
+Q X X 
+X Q Q 
+X X Q 
+206
+
+X X X 
+X Q Q 
+X X Q 
+207
+
+Q Q Q 
+Q X Q 
+X X Q 
+208
+
+X Q Q 
+Q X Q 
+X X Q 
+209
+
+Q X Q 
+Q X Q 
+X X Q 
+210
+
+X X Q 
+Q X Q 
+X X Q 
+211
+
+Q Q X 
+Q X Q 
+X X Q 
+212
+
+X Q X 
+Q X Q 
+X X Q 
+213
+
+Q X X 
+Q X Q 
+X X Q 
+214
+
+X X X 
+Q X Q 
+X X Q 
+215
+
+Q Q Q 
+X X Q 
+X X Q 
+216
+
+X Q Q 
+X X Q 
+X X Q 
+217
+
+Q X Q 
+X X Q 
+X X Q 
+218
+
+X X Q 
+X X Q 
+X X Q 
+219
+
+Q Q X 
+X X Q 
+X X Q 
+220
+
+X Q X 
+X X Q 
+X X Q 
+221
+
+Q X X 
+X X Q 
+X X Q 
+222
+
+X X X 
+X X Q 
+X X Q 
+223
+
+H Q Q 
+Q Q X 
+X X Q 
+224
+
+X Q Q 
+Q Q X 
+X X Q 
+225
+
+Q X Q 
+Q Q X 
+X X Q 
+226
+
+X X Q 
+Q Q X 
+X X Q 
+227
+
+H Q X 
+Q Q X 
+X X Q 
+228
+
+X Q X 
+Q Q X 
+X X Q 
+229
+
+Q X X 
+Q Q X 
+X X Q 
+230
+
+X X X 
+Q Q X 
+X X Q 
+231
+
+Q Q Q 
+X Q X 
+X X Q 
+232
+
+X Q Q 
+X Q X 
+X X Q 
+233
+
+Q X Q 
+X Q X 
+X X Q 
+234
+
+X X Q 
+X Q X 
+X X Q 
+235
+
+Q Q X 
+X Q X 
+X X Q 
+236
+
+X Q X 
+X Q X 
+X X Q 
+237
+
+Q X X 
+X Q X 
+X X Q 
+238
+
+X X X 
+X Q X 
+X X Q 
+239
+
+Q Q Q 
+Q X X 
+X X Q 
+240
+
+X Q Q 
+Q X X 
+X X Q 
+241
+
+Q X Q 
+Q X X 
+X X Q 
+242
+
+X X Q 
+Q X X 
+X X Q 
+243
+
+Q Q X 
+Q X X 
+X X Q 
+244
+
+X Q X 
+Q X X 
+X X Q 
+245
+
+Q X X 
+Q X X 
+X X Q 
+246
+
+X X X 
+Q X X 
+X X Q 
+247
+
+Q Q Q 
+X X X 
+X X Q 
+248
+
+X Q Q 
+X X X 
+X X Q 
+249
+
+Q X Q 
+X X X 
+X X Q 
+250
+
+X X Q 
+X X X 
+X X Q 
+251
+
+Q Q X 
+X X X 
+X X Q 
+252
+
+X Q X 
+X X X 
+X X Q 
+253
+
+Q X X 
+X X X 
+X X Q 
+254
+
+X X X 
+X X X 
+X X Q 
+255
+
+H H H 
+H Q Q 
+H Q X 
+256
+
+X Q H 
+Q Q Q 
+H Q X 
+257
+
+Q X Q 
+Q Q Q 
+H Q X 
+258
+
+X X Q 
+Q Q Q 
+H Q X 
+259
+
+H Q X 
+H Q Q 
+H Q X 
+260
+
+X Q X 
+Q Q Q 
+H Q X 
+261
+
+Q X X 
+Q Q Q 
+H Q X 
+262
+
+X X X 
+Q Q Q 
+H Q X 
+263
+
+Q Q H 
+X Q Q 
+Q Q X 
+264
+
+X Q H 
+X Q Q 
+Q Q X 
+265
+
+Q X Q 
+X Q Q 
+Q Q X 
+266
+
+X X Q 
+X Q Q 
+Q Q X 
+267
+
+Q Q X 
+X Q Q 
+Q Q X 
+268
+
+X Q X 
+X Q Q 
+Q Q X 
+269
+
+Q X X 
+X Q Q 
+Q Q X 
+270
+
+X X X 
+X Q Q 
+Q Q X 
+271
+
+Q Q Q 
+Q X Q 
+Q Q X 
+272
+
+X Q Q 
+Q X Q 
+Q Q X 
+273
+
+Q X Q 
+Q X Q 
+Q Q X 
+274
+
+X X Q 
+Q X Q 
+Q Q X 
+275
+
+Q Q X 
+Q X Q 
+Q Q X 
+276
+
+X Q X 
+Q X Q 
+Q Q X 
+277
+
+Q X X 
+Q X Q 
+Q Q X 
+278
+
+X X X 
+Q X Q 
+Q Q X 
+279
+
+Q Q Q 
+X X Q 
+Q Q X 
+280
+
+X Q Q 
+X X Q 
+Q Q X 
+281
+
+Q X Q 
+X X Q 
+Q Q X 
+282
+
+X X Q 
+X X Q 
+Q Q X 
+283
+
+Q Q X 
+X X Q 
+Q Q X 
+284
+
+X Q X 
+X X Q 
+Q Q X 
+285
+
+Q X X 
+X X Q 
+Q Q X 
+286
+
+X X X 
+X X Q 
+Q Q X 
+287
+
+H Q Q 
+H Q X 
+H Q X 
+288
+
+X Q Q 
+Q Q X 
+H Q X 
+289
+
+Q X Q 
+Q Q X 
+H Q X 
+290
+
+X X Q 
+Q Q X 
+H Q X 
+291
+
+H Q X 
+H Q X 
+H Q X 
+292
+
+X Q X 
+Q Q X 
+H Q X 
+293
+
+Q X X 
+Q Q X 
+H Q X 
+294
+
+X X X 
+Q Q X 
+H Q X 
+295
+
+Q Q Q 
+X Q X 
+Q Q X 
+296
+
+X Q Q 
+X Q X 
+Q Q X 
+297
+
+Q X Q 
+X Q X 
+Q Q X 
+298
+
+X X Q 
+X Q X 
+Q Q X 
+299
+
+Q Q X 
+X Q X 
+Q Q X 
+300
+
+X Q X 
+X Q X 
+Q Q X 
+301
+
+Q X X 
+X Q X 
+Q Q X 
+302
+
+X X X 
+X Q X 
+Q Q X 
+303
+
+Q Q Q 
+Q X X 
+Q Q X 
+304
+
+X Q Q 
+Q X X 
+Q Q X 
+305
+
+Q X Q 
+Q X X 
+Q Q X 
+306
+
+X X Q 
+Q X X 
+Q Q X 
+307
+
+Q Q X 
+Q X X 
+Q Q X 
+308
+
+X Q X 
+Q X X 
+Q Q X 
+309
+
+Q X X 
+Q X X 
+Q Q X 
+310
+
+X X X 
+Q X X 
+Q Q X 
+311
+
+Q Q Q 
+X X X 
+Q Q X 
+312
+
+X Q Q 
+X X X 
+Q Q X 
+313
+
+Q X Q 
+X X X 
+Q Q X 
+314
+
+X X Q 
+X X X 
+Q Q X 
+315
+
+Q Q X 
+X X X 
+Q Q X 
+316
+
+X Q X 
+X X X 
+Q Q X 
+317
+
+Q X X 
+X X X 
+Q Q X 
+318
+
+X X X 
+X X X 
+Q Q X 
+319
+
+H H H 
+Q Q Q 
+X Q X 
+320
+
+X Q H 
+Q Q Q 
+X Q X 
+321
+
+Q X Q 
+Q Q Q 
+X Q X 
+322
+
+X X Q 
+Q Q Q 
+X Q X 
+323
+
+H Q X 
+Q Q Q 
+X Q X 
+324
+
+X Q X 
+Q Q Q 
+X Q X 
+325
+
+Q X X 
+Q Q Q 
+X Q X 
+326
+
+X X X 
+Q Q Q 
+X Q X 
+327
+
+Q Q H 
+X Q Q 
+X Q X 
+328
+
+X Q H 
+X Q Q 
+X Q X 
+329
+
+Q X Q 
+X Q Q 
+X Q X 
+330
+
+X X Q 
+X Q Q 
+X Q X 
+331
+
+Q Q X 
+X Q Q 
+X Q X 
+332
+
+X Q X 
+X Q Q 
+X Q X 
+333
+
+Q X X 
+X Q Q 
+X Q X 
+334
+
+X X X 
+X Q Q 
+X Q X 
+335
+
+Q Q Q 
+Q X Q 
+X Q X 
+336
+
+X Q Q 
+Q X Q 
+X Q X 
+337
+
+Q X Q 
+Q X Q 
+X Q X 
+338
+
+X X Q 
+Q X Q 
+X Q X 
+339
+
+Q Q X 
+Q X Q 
+X Q X 
+340
+
+X Q X 
+Q X Q 
+X Q X 
+341
+
+Q X X 
+Q X Q 
+X Q X 
+342
+
+X X X 
+Q X Q 
+X Q X 
+343
+
+Q Q Q 
+X X Q 
+X Q X 
+344
+
+X Q Q 
+X X Q 
+X Q X 
+345
+
+Q X Q 
+X X Q 
+X Q X 
+346
+
+X X Q 
+X X Q 
+X Q X 
+347
+
+Q Q X 
+X X Q 
+X Q X 
+348
+
+X Q X 
+X X Q 
+X Q X 
+349
+
+Q X X 
+X X Q 
+X Q X 
+350
+
+X X X 
+X X Q 
+X Q X 
+351
+
+H Q Q 
+Q Q X 
+X Q X 
+352
+
+X Q Q 
+Q Q X 
+X Q X 
+353
+
+Q X Q 
+Q Q X 
+X Q X 
+354
+
+X X Q 
+Q Q X 
+X Q X 
+355
+
+H Q X 
+Q Q X 
+X Q X 
+356
+
+X Q X 
+Q Q X 
+X Q X 
+357
+
+Q X X 
+Q Q X 
+X Q X 
+358
+
+X X X 
+Q Q X 
+X Q X 
+359
+
+Q Q Q 
+X Q X 
+X Q X 
+360
+
+X Q Q 
+X Q X 
+X Q X 
+361
+
+Q X Q 
+X Q X 
+X Q X 
+362
+
+X X Q 
+X Q X 
+X Q X 
+363
+
+Q Q X 
+X Q X 
+X Q X 
+364
+
+X Q X 
+X Q X 
+X Q X 
+365
+
+Q X X 
+X Q X 
+X Q X 
+366
+
+X X X 
+X Q X 
+X Q X 
+367
+
+Q Q Q 
+Q X X 
+X Q X 
+368
+
+X Q Q 
+Q X X 
+X Q X 
+369
+
+Q X Q 
+Q X X 
+X Q X 
+370
+
+X X Q 
+Q X X 
+X Q X 
+371
+
+Q Q X 
+Q X X 
+X Q X 
+372
+
+X Q X 
+Q X X 
+X Q X 
+373
+
+Q X X 
+Q X X 
+X Q X 
+374
+
+X X X 
+Q X X 
+X Q X 
+375
+
+Q Q Q 
+X X X 
+X Q X 
+376
+
+X Q Q 
+X X X 
+X Q X 
+377
+
+Q X Q 
+X X X 
+X Q X 
+378
+
+X X Q 
+X X X 
+X Q X 
+379
+
+Q Q X 
+X X X 
+X Q X 
+380
+
+X Q X 
+X X X 
+X Q X 
+381
+
+Q X X 
+X X X 
+X Q X 
+382
+
+X X X 
+X X X 
+X Q X 
+383
+
+H H H 
+Q Q Q 
+Q X X 
+384
+
+X Q H 
+Q Q Q 
+Q X X 
+385
+
+Q X Q 
+Q Q Q 
+Q X X 
+386
+
+X X Q 
+Q Q Q 
+Q X X 
+387
+
+H Q X 
+Q Q Q 
+Q X X 
+388
+
+X Q X 
+Q Q Q 
+Q X X 
+389
+
+Q X X 
+Q Q Q 
+Q X X 
+390
+
+X X X 
+Q Q Q 
+Q X X 
+391
+
+Q Q H 
+X Q Q 
+Q X X 
+392
+
+X Q H 
+X Q Q 
+Q X X 
+393
+
+Q X Q 
+X Q Q 
+Q X X 
+394
+
+X X Q 
+X Q Q 
+Q X X 
+395
+
+Q Q X 
+X Q Q 
+Q X X 
+396
+
+X Q X 
+X Q Q 
+Q X X 
+397
+
+Q X X 
+X Q Q 
+Q X X 
+398
+
+X X X 
+X Q Q 
+Q X X 
+399
+
+Q Q Q 
+Q X Q 
+Q X X 
+400
+
+X Q Q 
+Q X Q 
+Q X X 
+401
+
+Q X Q 
+Q X Q 
+Q X X 
+402
+
+X X Q 
+Q X Q 
+Q X X 
+403
+
+Q Q X 
+Q X Q 
+Q X X 
+404
+
+X Q X 
+Q X Q 
+Q X X 
+405
+
+Q X X 
+Q X Q 
+Q X X 
+406
+
+X X X 
+Q X Q 
+Q X X 
+407
+
+Q Q Q 
+X X Q 
+Q X X 
+408
+
+X Q Q 
+X X Q 
+Q X X 
+409
+
+Q X Q 
+X X Q 
+Q X X 
+410
+
+X X Q 
+X X Q 
+Q X X 
+411
+
+Q Q X 
+X X Q 
+Q X X 
+412
+
+X Q X 
+X X Q 
+Q X X 
+413
+
+Q X X 
+X X Q 
+Q X X 
+414
+
+X X X 
+X X Q 
+Q X X 
+415
+
+H Q Q 
+Q Q X 
+Q X X 
+416
+
+X Q Q 
+Q Q X 
+Q X X 
+417
+
+Q X Q 
+Q Q X 
+Q X X 
+418
+
+X X Q 
+Q Q X 
+Q X X 
+419
+
+H Q X 
+Q Q X 
+Q X X 
+420
+
+X Q X 
+Q Q X 
+Q X X 
+421
+
+Q X X 
+Q Q X 
+Q X X 
+422
+
+X X X 
+Q Q X 
+Q X X 
+423
+
+Q Q Q 
+X Q X 
+Q X X 
+424
+
+X Q Q 
+X Q X 
+Q X X 
+425
+
+Q X Q 
+X Q X 
+Q X X 
+426
+
+X X Q 
+X Q X 
+Q X X 
+427
+
+Q Q X 
+X Q X 
+Q X X 
+428
+
+X Q X 
+X Q X 
+Q X X 
+429
+
+Q X X 
+X Q X 
+Q X X 
+430
+
+X X X 
+X Q X 
+Q X X 
+431
+
+Q Q Q 
+Q X X 
+Q X X 
+432
+
+X Q Q 
+Q X X 
+Q X X 
+433
+
+Q X Q 
+Q X X 
+Q X X 
+434
+
+X X Q 
+Q X X 
+Q X X 
+435
+
+Q Q X 
+Q X X 
+Q X X 
+436
+
+X Q X 
+Q X X 
+Q X X 
+437
+
+Q X X 
+Q X X 
+Q X X 
+438
+
+X X X 
+Q X X 
+Q X X 
+439
+
+Q Q Q 
+X X X 
+Q X X 
+440
+
+X Q Q 
+X X X 
+Q X X 
+441
+
+Q X Q 
+X X X 
+Q X X 
+442
+
+X X Q 
+X X X 
+Q X X 
+443
+
+Q Q X 
+X X X 
+Q X X 
+444
+
+X Q X 
+X X X 
+Q X X 
+445
+
+Q X X 
+X X X 
+Q X X 
+446
+
+X X X 
+X X X 
+Q X X 
+447
+
+H H H 
+Q Q Q 
+X X X 
+448
+
+X Q H 
+Q Q Q 
+X X X 
+449
+
+Q X Q 
+Q Q Q 
+X X X 
+450
+
+X X Q 
+Q Q Q 
+X X X 
+451
+
+H Q X 
+Q Q Q 
+X X X 
+452
+
+X Q X 
+Q Q Q 
+X X X 
+453
+
+Q X X 
+Q Q Q 
+X X X 
+454
+
+X X X 
+Q Q Q 
+X X X 
+455
+
+Q Q H 
+X Q Q 
+X X X 
+456
+
+X Q H 
+X Q Q 
+X X X 
+457
+
+Q X Q 
+X Q Q 
+X X X 
+458
+
+X X Q 
+X Q Q 
+X X X 
+459
+
+Q Q X 
+X Q Q 
+X X X 
+460
+
+X Q X 
+X Q Q 
+X X X 
+461
+
+Q X X 
+X Q Q 
+X X X 
+462
+
+X X X 
+X Q Q 
+X X X 
+463
+
+Q Q Q 
+Q X Q 
+X X X 
+464
+
+X Q Q 
+Q X Q 
+X X X 
+465
+
+Q X Q 
+Q X Q 
+X X X 
+466
+
+X X Q 
+Q X Q 
+X X X 
+467
+
+Q Q X 
+Q X Q 
+X X X 
+468
+
+X Q X 
+Q X Q 
+X X X 
+469
+
+Q X X 
+Q X Q 
+X X X 
+470
+
+X X X 
+Q X Q 
+X X X 
+471
+
+Q Q Q 
+X X Q 
+X X X 
+472
+
+X Q Q 
+X X Q 
+X X X 
+473
+
+Q X Q 
+X X Q 
+X X X 
+474
+
+X X Q 
+X X Q 
+X X X 
+475
+
+Q Q X 
+X X Q 
+X X X 
+476
+
+X Q X 
+X X Q 
+X X X 
+477
+
+Q X X 
+X X Q 
+X X X 
+478
+
+X X X 
+X X Q 
+X X X 
+479
+
+H Q Q 
+Q Q X 
+X X X 
+480
+
+X Q Q 
+Q Q X 
+X X X 
+481
+
+Q X Q 
+Q Q X 
+X X X 
+482
+
+X X Q 
+Q Q X 
+X X X 
+483
+
+H Q X 
+Q Q X 
+X X X 
+484
+
+X Q X 
+Q Q X 
+X X X 
+485
+
+Q X X 
+Q Q X 
+X X X 
+486
+
+X X X 
+Q Q X 
+X X X 
+487
+
+Q Q Q 
+X Q X 
+X X X 
+488
+
+X Q Q 
+X Q X 
+X X X 
+489
+
+Q X Q 
+X Q X 
+X X X 
+490
+
+X X Q 
+X Q X 
+X X X 
+491
+
+Q Q X 
+X Q X 
+X X X 
+492
+
+X Q X 
+X Q X 
+X X X 
+493
+
+Q X X 
+X Q X 
+X X X 
+494
+
+X X X 
+X Q X 
+X X X 
+495
+
+Q Q Q 
+Q X X 
+X X X 
+496
+
+X Q Q 
+Q X X 
+X X X 
+497
+
+Q X Q 
+Q X X 
+X X X 
+498
+
+X X Q 
+Q X X 
+X X X 
+499
+
+Q Q X 
+Q X X 
+X X X 
+500
+
+X Q X 
+Q X X 
+X X X 
+501
+
+Q X X 
+Q X X 
+X X X 
+502
+
+X X X 
+Q X X 
+X X X 
+503
+
+Q Q Q 
+X X X 
+X X X 
+504
+
+X Q Q 
+X X X 
+X X X 
+505
+
+Q X Q 
+X X X 
+X X X 
+506
+
+X X Q 
+X X X 
+X X X 
+507
+
+Q Q X 
+X X X 
+X X X 
+508
+
+X Q X 
+X X X 
+X X X 
+509
+
+Q X X 
+X X X 
+X X X 
+510
+
+X X X 
+X X X 
+X X X 
+511
+
+
+1 10 48 106 122 84 36 9 1 
+9 36 84 126 126 84 36 9 1 
+4.88249
